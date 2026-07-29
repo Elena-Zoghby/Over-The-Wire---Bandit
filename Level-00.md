@@ -1,10 +1,6 @@
 # Level 0: Entry
 Current user: your local user
 
-Username to login: bandit0
-
-Password to login: bandit0
-
 ## Concept - SSH
 SSH (secure shell) is a protocol used to secure the communication between two remote interfaces by providing encryption over the files transferred, requests/responses exchanges (client-server), and is used to execute a command on a remote machine.
 In this level, we are making use of SSH Client. We are trying to access the server of bandit at port 2220, and we will be able to do that since we have password and username.
