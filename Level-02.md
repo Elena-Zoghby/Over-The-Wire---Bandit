@@ -1,4 +1,4 @@
-# Level 2: Entry
+# Level 2
 Current user: bandit1
 
 ## Concept - Dashed files
