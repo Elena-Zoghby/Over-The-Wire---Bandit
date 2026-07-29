@@ -1,7 +1,5 @@
 # Level 1
-Username to login: bandit1
-
-Password to login: 6y2kwnwK6grgvwvpvLaa2T1cpFEKOhNR
+Current user: bandit0
 
 ## Concept - Files
 The concept here is simple. Find a file and read its contents. To do that, make sure you're already logged in bandit0. 
