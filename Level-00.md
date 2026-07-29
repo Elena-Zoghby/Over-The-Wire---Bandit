@@ -1,5 +1,8 @@
 # Level 0: Entry
+Current user: your local user
+
 Username to login: bandit0
+
 Password to login: bandit0
 
 ## Concept - SSH
