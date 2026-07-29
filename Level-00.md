@@ -16,7 +16,9 @@ These three fields should be present in your first command.
 ## Solution
 Since we have the hostname and port number, you might think that they are enough to connect. But it's not, since we can't connect with any username to the server. We can only login using the username bandit0 (at this level), otherwise we won't be allowed perission (our user, for example your username on your pc in Ubuntu, isn't listed in the permission accepted list).
 Execute the following command:
+
 ssh -p 2220 bandit0@bandit.labs.overthewire.org
+
 which has the format of: ssh -p port_number username@hostname_or_ip
 Then, enter the password: bandit0.
 
