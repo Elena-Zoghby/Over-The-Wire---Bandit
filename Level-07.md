@@ -1,4 +1,4 @@
-# Level 6
+# Level 7
 Current user: bandit6
 
 ## Concept - Users and Groups
