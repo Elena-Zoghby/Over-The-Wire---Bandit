@@ -1,4 +1,4 @@
-# Level 8
+# Level 9
 Current user: bandit8
 
 ## Concept - Word Search With Duplicates
