@@ -1,4 +1,4 @@
-# Level 3
+# Level 4
 Current user: bandit3
 
 ## Concept - Hidden Files
