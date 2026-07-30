@@ -1,4 +1,4 @@
-# Level 7
+# Level 8
 Current user: bandit7
 
 ## Concept - Word Search
