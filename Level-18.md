@@ -17,9 +17,8 @@ diff passwords.old passwords.new
 
 You'll get: 
 
-42c42
-< icUh23IUytZLIYhcCaXL18agiSIqymBc
----
+<icUh23IUytZLIYhcCaXL18agiSIqymBc
+
 > OQxXZjELndr90zuhOTDYBEomI0SZITXI
 
 The password for level 18 is the next line which is : 
